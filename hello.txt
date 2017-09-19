@@ -8,4 +8,8 @@ test three
 master 冲突测试 分支测试
 feature1 分支测试
 123
+<<<<<<< HEAD
 自己的分支
+=======
+bob的分支处理
+>>>>>>> b8f8277fda6e3dc505769299c9b80035a7099bef
